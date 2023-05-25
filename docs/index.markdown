@@ -9,8 +9,8 @@ layout: home
 Hi my name is Yeongyu Kim, and I try to find good and meaningful things and do it.
 
 # Skills
-*Most experience with __Python__
-*Have learned C, C++, HTML CSS JS
+* Most experience with __Python__
+* Have learned C, C++, HTML CSS JS
 
 # Education
 SKKU Software, On my 4th Semester 
