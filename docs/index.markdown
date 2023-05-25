@@ -15,12 +15,15 @@ I am checking for software news frequently these days. Things are changing fast!
 
 # Skills
 Most experience with Python
+
 ## Machine Learning
 I have learned the overall models of machine learning, but I don't have much implementation experiences.
+
 ### SKKU Courses
 * Introduction to Artificial Intelligence
 * Fundamentals of Machine Learning
 * Introductory Data Analysis
+
 ### Kaggle
 * Titanic
 * Fashion Mnist
@@ -33,9 +36,11 @@ I have experience with web programming through the school course. I think some w
 
 ## I learned also
 C, C++ in school courses and books but not utilizing it recently.
+
 ## I made
 * SKKU Notice Telegram Bot
 * Mock university appliance site Crawler
+
 ## I want to
 * do low level programming with a computer, making a __full hardware product__ rather than just a software
 * learn __Mojo__ (_Maybe_ the One Language to Replace All)
@@ -51,5 +56,5 @@ SKKU Software, On my 4th Semester
 
 # Contact
 * email: yeon0831k@gmail.com
-* [intagram] (https://www.instagram.com/yeon0831/)
-* [instagram(workout)] (https://www.instagram.com/yeongyumove/)
+* [intagram](https://www.instagram.com/yeon0831/)
+* [instagram(workout)](https://www.instagram.com/yeongyumove/)
