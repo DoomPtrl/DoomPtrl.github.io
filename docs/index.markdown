@@ -14,9 +14,29 @@ I have thought of making my blog before, but now I am making one for the Open So
 I am checking for software news frequently these days. Things are changing fast! I want to learn skills with a bright future.
 
 # Skills
-* Most experience with __Python__ (Machine Learning, Web Crawling, ...)
-* Have learned C, C++, HTML CSS JS
-* _I am interested in __Mojo__ (Maybe the One Language to Replace All)_
+Most experience with Python
+## Machine Learning
+I have learned the overall models of machine learning, but I don't have much implementation experiences.
+### SKKU Courses
+* Introduction to Artificial Intelligence
+* Fundamentals of Machine Learning
+* Introductory Data Analysis
+### Kaggle
+* Titanic
+* Fashion Mnist
+* Spiral
+## Web Programming 
+I have experience with web programming through the school course. I think some web knowledge have been useful when Web Crawling.
+### SKKU Courses
+* Web Programming Lab
+## I learned also
+C, C++ in school courses and books but not utilizing it recently.
+## I made
+* SKKU Notice Telegram Bot
+* Mock university appliance site Crawler
+## I want to
+* do low level programming with a computer, making a __full hardware product__ rather than just a software
+* learn __Mojo__ (_Maybe_ the One Language to Replace All)
 
 # Education
 SKKU Software, On my 4th Semester
