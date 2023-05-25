@@ -14,39 +14,35 @@ I have thought of making my blog before, but now I am making one for the Open So
 I am checking for software news frequently these days. Things are changing fast! I want to learn skills with a bright future.
 
 # Skills
-Most experience with Python
-
-## Machine Learning
-I have learned the overall models of machine learning, but I don't have much implementation experiences.
-
-### SKKU Courses
-* Introduction to Artificial Intelligence
-* Fundamentals of Machine Learning
-* Introductory Data Analysis
-
-### Kaggle
-* Titanic
-* Fashion Mnist
-* Spiral
-
-## Web Programming 
-I have experience with web programming through the school course. I think some web knowledge have been useful when Web Crawling.
-### SKKU Courses
-* Web Programming Lab
-
-## I learned also
-C, C++ in school courses and books but not utilizing it recently.
-
+In programming, I have most experience with Python (Machine Learning, Web Crawling, ...)
 ## I made
 * SKKU Notice Telegram Bot
 * Mock university appliance site Crawler
-
+* snake game with C
+## I have tried
+* Kaggle (Fasion Mnist, Spiral, Titanic)
+* Big Data crawling analysis on [WIRED](https://www.wired.com/) site
+* Competitive Coding Contest 
 ## I want to
 * do low level programming with a computer, making a __full hardware product__ rather than just a software
 * learn __Mojo__ (_Maybe_ the One Language to Replace All)
 
 # Education
 SKKU Software, On my 4th Semester
+
+## Course I have taken
+
+### Computer
+Programming for Engineers, Introductory Data Analysis, System Programming, Introduction to Artificial Intelligence, Basis and Practice in Programming, Data Structures, Fundamentals of Machine Learning, Introduction to Computer Architecture, Open Source Software Practice, Problem Solving Techniques, Seminar in computer engineering, Web Programming
+
+### Science & Math
+Introductory Economics, Biology 1, General Chemistry 1, Calculus 1, Discrete Mathematics
+
+### Sports
+Basketball, Soccer
+
+### Other
+Introductory Chinese Characters, Classics Bookclub, Writing for Science&Tech, Fast Writing, Introduction to Linguistic Logic, Creative Writing, Creative integrated Design, Patents and Foundation, Formal Logics, English for Arts&Lit, Sports English
 
 # Achievements and Certifications
 * Dean's List(2nd Sem)
