@@ -25,10 +25,12 @@ I have learned the overall models of machine learning, but I don't have much imp
 * Titanic
 * Fashion Mnist
 * Spiral
+
 ## Web Programming 
 I have experience with web programming through the school course. I think some web knowledge have been useful when Web Crawling.
 ### SKKU Courses
 * Web Programming Lab
+
 ## I learned also
 C, C++ in school courses and books but not utilizing it recently.
 ## I made
