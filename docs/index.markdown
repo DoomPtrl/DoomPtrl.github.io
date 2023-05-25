@@ -49,5 +49,5 @@ SKKU Software, On my 4th Semester
 
 # Contact
 * email: yeon0831k@gmail.com
-* intagram: https://www.instagram.com/yeon0831/
-* instagram(workout): https://www.instagram.com/yeongyumove/
+* [intagram] (https://www.instagram.com/yeon0831/)
+* [instagram(workout)] (https://www.instagram.com/yeongyumove/)
